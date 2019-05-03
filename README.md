@@ -2,4 +2,4 @@
 
 George Harrison tribute page
 
-[License](https://codepen.io/gustavocsalvador/pen/zEJBdj/license).
+[License](https://codepen.io/gustavocsalvador/pen/zEJBdj/license)
